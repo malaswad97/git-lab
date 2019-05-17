@@ -1,7 +1,9 @@
-Answer 1
+	Answer 1
+
 git version 2.21.0.windows.1
 
-Answer 2
+	Answer 2
+
 core.symlinks=false
 core.autocrlf=true
 core.fscache=true
@@ -17,10 +19,12 @@ credential.helper=manager
 user.name=Mohammed Alaswad
 user.email=ma907814@ohio.edu
 
-Answer 3
+	Answer 3
+
 It opens a part in the pdf manual that explains the command.
 
-Answer 4
+	Answer 4
+
 On branch master
 
 No commits yet
@@ -33,7 +37,8 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 
-Answer 5
+	Answer 5
+
 On branch master
 
 No commits yet
@@ -48,7 +53,8 @@ Untracked files:
 
 	answers.md
 
-Answer 6
+	Answer 6
+
 On branch master
 
 No commits yet
@@ -65,7 +71,8 @@ Changes not staged for commit:
 
 	modified:   answers.md
 
-Answer 7
+	Answer 7
+
 On branch master
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
@@ -75,7 +82,8 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-Answer 8
+	Answer 8
+
 commit 4013d196665d03cc02ab7953a14093aef38fc352
 Author: Mohammed Alaswad <ma907814@ohio.edu>
 Date:   Fri May 17 14:38:23 2019 -0400
