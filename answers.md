@@ -16,8 +16,9 @@ rebase.autosquash=true
 http.sslbackend=openssl
 http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
 credential.helper=manager
-user.name=Mohammed Alaswad
-user.email=ma907814@ohio.edu
+	user.name=Mohammed Alaswad
+	user.email=ma907814@ohio.edu
+
 
 	Answer 3
 
