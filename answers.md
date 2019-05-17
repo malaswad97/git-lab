@@ -90,3 +90,30 @@ Author: Mohammed Alaswad <ma907814@ohio.edu>
 Date:   Fri May 17 14:38:23 2019 -0400
 
     Initial commit
+
+	Answer9
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+	Answer 10
+
+No
+
+	Answer 11
+
+I receive an error
+
+	Answer 12
+
+Yes
+
+	Answer 13
+
+./
+../
+.git/
+.gitignore
+README.md
